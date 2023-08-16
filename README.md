@@ -4,13 +4,12 @@
 I am a passionate programmer and technology enthusiast, aiming to become a Data Analyst or Business Analyst.
 
 ✨ Interests
-- Data Analysis
-- Business Intelligence
+- Business Analysis
 - Python Programming
 
 🌱 Current Learning
 I am currently learning and improving my skills in:
-- Python programming for data analysis
+- Python programming for business analysis
 - Data manipulation and visualization
 - SQL database management
 
