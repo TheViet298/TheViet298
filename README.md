@@ -1,4 +1,4 @@
-<div align="center"> Hi 👋, I'm Viet 3 Tuoi<div>
+# <div align="center"> Hi 👋, I'm Viet3Tuoi<div>
 
 <base target="_blank">
 
@@ -28,13 +28,11 @@
 
 ---
 
-### :woman_technologist: About Me:
+### :man_technologist: About Me:
 
-I'm a <b>Machine Learning Engineer</b> specializing in <b>Deep Learning</b> and <b>Computer Vision</b> applications <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- 🔭 My name is <b>Ngô Thế Việt</b>.
 
-- 🔭 Conducting research on <b>AI</b> and <b>Medical Image Analysis</b>.
-
-- 🎓 MSc in Computing Science focusing on <em>Intelligent Systems & Visual Computing</em>.
+- 🎓 I am studying at Posts & Telecoms Institute of Technology.
 
 - :desktop_computer: I have worked on ML-based models to optimize customer journey actions.
 
