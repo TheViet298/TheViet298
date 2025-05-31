@@ -1,4 +1,4 @@
-# <div align="center"> Hi 👋, I'm Viet3Tuoi<div>
+# <div align="center"> Hi 👋, I'm NTViet<div>
 
 <base target="_blank">
 
@@ -34,7 +34,7 @@
 
 - 🎓 I am studying at Posts & Telecoms Institute of Technology.
 
-- :desktop_computer: I have worked on ML-based models to optimize customer journey actions.
+- :desktop_computer: I'm network engineer
 
 - 📫 How to reach me: [ngotheviet2003@gmail.com](mailto:ngotheviet2003@gmail.com)
 
